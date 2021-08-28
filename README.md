@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+# Download or clone this repository into your local computer
+
+#Go to to the project diecttory in command promt, type follwoing command to get the node_moduule foltder
+
+# npm install
+
 In the project directory, you can run:
 
 ### `npm start`
